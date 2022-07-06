@@ -12,3 +12,13 @@ python-dotenv>=0.5.1
 
 # backwards compatibility
 pathlib2
+
+scipy==1.7.0
+numpy==1.22.4
+pandas
+xgboost
+bayesian-optimization
+matplotlib
+seaborn
+kedro
+
